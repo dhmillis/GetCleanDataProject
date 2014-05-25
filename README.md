@@ -9,10 +9,10 @@ The script reads raw data from the UCI Human Activity Recognition dataset, found
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 To set up your environment so the script can load the data:
-1. Download the data archive from the above URL.
-2. Extract the data to a folder on your local computer.
-3. Copy the script run_analysis.R to the folder you just created.
-4. In R, set this folder as the working directory:
+* Download the data archive from the above URL.
+* Extract the data to a folder on your local computer.
+* Copy the script run_analysis.R to the folder you just created.
+* In R, set this folder as the working directory:
 
 ```
 > setwd("C:/path/to/data/folder/")
